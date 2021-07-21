@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">FinalExamMOOP</string>
+
+    <string-array name="first_spinner">
+        <item>Roda Dua</item>
+        <item>Roda Empat</item>
+    </string-array>
+
+    <string-array name="second_spinner_two">
+        <item>Sport Bike</item>
+        <item>Moped</item>
+    </string-array>
+    <string-array name="second_spinner_four">
+        <item>SUV</item>
+        <item>Sedan</item>
+    </string-array>
+
+    <string name="engine_two">Buka penutup mesin. Cek kondisi mesin. Ganti oli mesin.</string>
+    <string name="engine_four">Buka kompartemen mesin. Cek kondisi mesin. Ganti oli mesin. Cek pendingin.</string>
+
+    <string name="gear_bike">Cek kabel kopling. Cek mekanisme gear change.</string>
+    <string name="gear_moped">Cek sistem CVT.</string>
+    <string name="gear_suv">Cek mekanisme 4WD. Cek kabel kopling. Cek mekanisme gear change.</string>
+    <string name="gear_sedan">Cek sistem gear change.</string>
+</resources>
